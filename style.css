@@ -1,0 +1,8 @@
+li.completed{
+    text-decoration:line-through;
+    color:red;
+}
+
+body{
+    background-color: azure;
+}
